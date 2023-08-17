@@ -20,3 +20,6 @@ master
 
 pull 取得远端数据库的内容
 
+连猴子都懂的Git命令
+
+https://backlog.com/git-tutorial/cn/intro/intro4_3.html
