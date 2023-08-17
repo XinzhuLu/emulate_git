@@ -3,9 +3,9 @@ Git试图工具小乌龟及其语言包
 
 https://backlog.com/git-tutorial/cn/intro/intro4_3.html
 
-commit
+## commit
 
-add 把变更录入到索引中
+## add 把变更录入到索引中
 
 origin/master
 表示远程数据库“origin”的分支“master”的位置。
@@ -18,5 +18,4 @@ master
 在执行pull之后，进行下一次push之前，如果其他人进行了推送内容到远程数据库的话，那么你的push将被拒绝。
 合并的时候，Git会自动合并已有的变更点！不过，也存在不能自动合并的情况。
 
-pull 取得远端数据库的内容
-
+## pull 取得远端数据库的内容
